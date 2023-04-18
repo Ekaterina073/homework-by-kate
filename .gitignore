@@ -1,0 +1,14 @@
+# Ignore repozitiry tmp
+tmp/
+
+#ignore files
+*.*_old
+
+#ignore files
+*._backup
+
+#ignore files
+Thumbs.db
+
+#ignore files
+*.DS_Store
